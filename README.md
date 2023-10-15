@@ -10,3 +10,7 @@ Create TS configuration file: npx tsc --init
  /* Enabled Modules in TS configuration file */
  "rootDir": "./src"
  "outDir": "./build"
+
+Create the start script
+Add in package.json in script: "start": "npx tsc && node build/index.js"
+Start command: npm run start
