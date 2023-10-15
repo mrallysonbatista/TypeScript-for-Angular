@@ -10,6 +10,7 @@ Compile TS to JS from TS configuration file: npx tsc
 
 Execute: node src/index.ts
 
+
 Create TS configuration file: npx tsc --init
 
  /* Enabled Modules in TS configuration file */
@@ -17,6 +18,7 @@ Create TS configuration file: npx tsc --init
  "rootDir": "./src"
  
  "outDir": "./build"
+
 
 Create the start script
 
