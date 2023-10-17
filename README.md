@@ -9,6 +9,7 @@ Create TS configuration file: npx tsc --init
  ## Enabled Modules in TS configuration file ##
  "rootDir": "./src"
  "outDir": "./build"
+ "experimentalDecorators": true
 
 ## Create the start script ##
 Add in package.json in script: 

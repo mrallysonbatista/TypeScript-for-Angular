@@ -1,6 +1,6 @@
 /*
 // Generics
-  It allows you to choose which type of proprieties it can return you
+  It allows you to choose which type of attributes it can return you
   (...) > Spread syntax allows an iterable, such as array, to be expanded in places
 
 */

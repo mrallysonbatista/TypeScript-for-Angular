@@ -2,7 +2,7 @@
 
 /*
   // Data modifiers
-  They can be used in both method and proprities (variables)
+  They can be used in both method and attributes (variables)
 
   readonly > it can be accessed but it can't be modified
   private > it can only be accessed within the class throw constructor method;
